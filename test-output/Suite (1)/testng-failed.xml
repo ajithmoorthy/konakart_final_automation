@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite (1)]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.atmecs.konakart.testscripts.WelcomePage">
+      <class name="com.atmecs.konakart.testscripts.HeroImage">
         <methods>
           <include name="startReport"/>
+          <include name="validateHeroImage" invocation-numbers="0"/>
           <include name="tearDown"/>
           <include name="endReport"/>
-          <include name="validateKonakart" invocation-numbers="2"/>
           <include name="baseSetup"/>
         </methods>
-      </class> <!-- com.atmecs.konakart.testscripts.WelcomePage -->
+      </class> <!-- com.atmecs.konakart.testscripts.HeroImage -->
     </classes>
   </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite (0)] -->
+</suite> <!-- Failed suite [Suite (1)] -->

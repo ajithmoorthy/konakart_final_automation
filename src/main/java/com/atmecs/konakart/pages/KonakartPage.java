@@ -25,8 +25,8 @@ public class KonakartPage {
 		WebElement element=driver.findElement(By.xpath(prop.getProperty("loc.container.root")));
 		String[] countString=element.getText().split("\n");
 		if(countString.length>1) {
-		WebElement list=driver.findElement(By.xpath(prop.getProperty("loc.panel.konakartproduct.xpath")));
-		String[] elementarray=list.getText().split("\n");
+		WebElement prodelement=driver.findElement(By.xpath(prop.getProperty("loc.panel.konakartproduct.xpath")));
+		String[] elementarray=prodelement.getText().split("\n");
 		int count=0;
 		for(String string:elementarray) {
 			validate.assertValidate(string, temparray[count]);
