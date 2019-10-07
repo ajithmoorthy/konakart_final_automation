@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2019-10-07T14:15:21Z" finished-at="2019-10-07T14:15:21Z">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="54009" started-at="2019-10-07T14:14:26Z" finished-at="2019-10-07T14:15:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54009" started-at="2019-10-07T14:14:26Z" finished-at="2019-10-07T14:15:20Z">
+      <class name="com.atmecs.konakart.testscripts.HeroImage">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@1efbd816]" name="startReport" is-config="true" duration-ms="12" started-at="2019-10-07T14:14:26Z" finished-at="2019-10-07T14:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@1efbd816]" name="baseSetup" is-config="true" duration-ms="19340" started-at="2019-10-07T14:14:26Z" finished-at="2019-10-07T14:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateHeroImage([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@1efbd816]" name="validateHeroImage" duration-ms="34388" started-at="2019-10-07T14:14:46Z" data-provider="productdata" finished-at="2019-10-07T14:15:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7c974942]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeroImage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@1efbd816]" name="tearDown" is-config="true" duration-ms="234" started-at="2019-10-07T14:15:20Z" finished-at="2019-10-07T14:15:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHeroImage status=SUCCESS method=HeroImage.validateHeroImage([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@1efbd816] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@1efbd816]" name="endReport" is-config="true" duration-ms="780" started-at="2019-10-07T14:15:20Z" finished-at="2019-10-07T14:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecs.konakart.testscripts.HeroImage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="43553" started-at="2019-10-07T14:13:42Z" finished-at="2019-10-07T14:14:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43553" started-at="2019-10-07T14:13:42Z" finished-at="2019-10-07T14:14:25Z">
+      <class name="com.atmecs.konakart.testscripts.WelcomePage">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54]" name="startReport" is-config="true" duration-ms="262" started-at="2019-10-07T14:13:41Z" finished-at="2019-10-07T14:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54]" name="baseSetup" is-config="true" duration-ms="19773" started-at="2019-10-07T14:13:42Z" finished-at="2019-10-07T14:14:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54]" name="validateKonakart" duration-ms="12472" started-at="2019-10-07T14:14:02Z" data-provider="welcomedata" finished-at="2019-10-07T14:14:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@19fe4644]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54]" name="tearDown" is-config="true" duration-ms="356" started-at="2019-10-07T14:14:15Z" finished-at="2019-10-07T14:14:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=WelcomePage.validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54]" name="validateKonakart" duration-ms="9720" started-at="2019-10-07T14:14:15Z" data-provider="welcomedata" finished-at="2019-10-07T14:14:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@21d8bcbe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateKonakart -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54]" name="tearDown" is-config="true" duration-ms="94" started-at="2019-10-07T14:14:25Z" finished-at="2019-10-07T14:14:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateKonakart status=SUCCESS method=WelcomePage.validateKonakart([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecs.konakart.testscripts.WelcomePage@9f70c54]" name="endReport" is-config="true" duration-ms="1146" started-at="2019-10-07T14:14:25Z" finished-at="2019-10-07T14:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecs.konakart.testscripts.WelcomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>

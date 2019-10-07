@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59927" started-at="2019-10-07T14:11:06Z" finished-at="2019-10-07T14:12:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59927" started-at="2019-10-07T14:11:06Z" finished-at="2019-10-07T14:12:06Z">
+      <class name="com.atmecs.konakart.testscripts.HeroImage">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@39c0f4a]" name="startReport" is-config="true" duration-ms="293" started-at="2019-10-07T14:11:06Z" finished-at="2019-10-07T14:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@39c0f4a]" name="baseSetup" is-config="true" duration-ms="18663" started-at="2019-10-07T14:11:06Z" finished-at="2019-10-07T14:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="validateHeroImage([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@39c0f4a]" name="validateHeroImage" duration-ms="39920" started-at="2019-10-07T14:11:26Z" data-provider="productdata" finished-at="2019-10-07T14:12:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@43ed0ff3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHeroImage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@39c0f4a]" name="tearDown" is-config="true" duration-ms="252" started-at="2019-10-07T14:12:06Z" finished-at="2019-10-07T14:12:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHeroImage status=SUCCESS method=HeroImage.validateHeroImage([Ljava.lang.String;)[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@39c0f4a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecs.konakart.testscripts.HeroImage@39c0f4a]" name="endReport" is-config="true" duration-ms="1186" started-at="2019-10-07T14:12:06Z" finished-at="2019-10-07T14:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecs.konakart.testscripts.HeroImage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

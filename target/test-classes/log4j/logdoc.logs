@@ -1,0 +1,1533 @@
+2019-10-07 10:59:07 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 10:59:28 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 10:59:30 INFO  LogReporter:19 - Actual Value :Product Description not match wiht the Expected value :$54.99
+2019-10-07 10:59:33 INFO  LogReporter:19 - Actual Value :Specifications not match wiht the Expected value :3
+2019-10-07 10:59:34 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :the dark knight
+2019-10-07 10:59:38 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 10:59:59 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:00:01 INFO  LogReporter:19 - Actual Value :Product Description not match wiht the Expected value :$79.99
+2019-10-07 11:00:03 INFO  LogReporter:19 - Actual Value :Specifications not match wiht the Expected value :4
+2019-10-07 11:00:05 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :windows 8agsdhk
+2019-10-07 11:03:34 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:03:36 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 11:03:41 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:03:43 INFO  LogReporter:19 - Actual Value :Product Description not match wiht the Expected value :$54.99
+2019-10-07 11:03:45 INFO  LogReporter:19 - Actual Value :Specifications not match wiht the Expected value :3
+2019-10-07 11:03:46 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :the dark knight
+2019-10-07 11:03:50 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:04:10 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:04:12 INFO  LogReporter:19 - Actual Value :Product Description not match wiht the Expected value :$79.99
+2019-10-07 11:04:14 INFO  LogReporter:19 - Actual Value :Specifications not match wiht the Expected value :4
+2019-10-07 11:04:16 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :windows 8agsdhk
+2019-10-07 11:04:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:04:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:04:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:04:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:04:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:04:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:04:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:04:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:04:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:04:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:05:48 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:05:49 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 11:05:57 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:05:59 INFO  LogReporter:19 - Actual Value :Product Description not match wiht the Expected value :$54.99
+2019-10-07 11:06:01 INFO  LogReporter:19 - Actual Value :Specifications not match wiht the Expected value :3
+2019-10-07 11:06:03 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :the dark knight
+2019-10-07 11:06:07 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:07:09 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:07:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:07:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:07:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:07:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:07:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:07:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:07:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:07:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:07:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:07:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:07:55 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:07:56 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:08:01 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:08:04 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 11:08:05 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 11:08:07 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 11:08:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:08:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:08:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:08:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:08:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:08:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:08:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:08:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:08:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:08:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:23:33 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:23:34 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:23:36 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 11:23:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:23:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:23:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:23:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:23:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:23:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:23:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:23:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:23:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:23:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:27:44 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:27:46 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:27:51 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 11:27:53 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 11:28:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:28:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:28:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:28:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:28:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:28:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:28:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:28:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:28:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:28:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:30:46 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:30:48 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:30:53 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:30:55 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 11:31:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:31:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:31:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:31:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:31:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:31:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:31:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:31:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:31:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:31:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:33:36 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:34:03 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:34:04 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:34:36 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 11:34:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:34:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:34:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:34:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:34:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:34:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:34:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:35:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:35:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:35:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:35:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:35:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:35:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:35:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:35:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:35:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:35:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:36:10 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:36:11 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:36:18 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:36:21 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 11:36:24 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 11:36:28 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 11:36:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:36:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:36:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:36:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:36:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:36:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:36:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:36:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:36:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:36:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:41:12 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:41:13 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:41:20 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 11:41:23 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 11:41:26 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 11:41:29 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 11:41:33 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 11:41:54 INFO  LogReporter:19 - Document title is validated :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 11:41:57 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 11:42:00 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 11:42:03 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated succesfully
+2019-10-07 11:42:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:42:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:42:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:42:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:44:15 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:44:16 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:44:23 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 11:44:27 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 11:44:30 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 11:44:32 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 11:44:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:44:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:44:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:44:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:44:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:44:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:44:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:44:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:44:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:44:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:57:12 INFO  LogReporter:19 - url is loaded
+2019-10-07 11:57:13 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 11:57:15 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 11:57:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:57:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:57:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:57:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:57:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 11:57:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 11:57:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 11:57:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 11:57:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 11:57:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:00:27 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:00:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:00:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:00:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:00:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:00:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:00:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:00:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:00:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:00:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:00:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:01:14 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:01:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:01:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:01:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:01:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:01:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:01:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:01:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:01:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:01:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:01:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:03:20 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:03:21 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:03:27 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 12:03:31 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:03:34 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:03:37 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 12:03:39 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:03:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:03:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:03:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:03:39 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:03:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:03:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:03:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:03:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:03:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:07:03 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:07:05 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:07:10 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 12:07:13 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:07:16 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:07:19 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 12:07:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:07:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:07:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:07:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:07:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:07:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:07:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:07:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:07:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:07:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:11:46 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:11:47 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:11:53 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 12:11:55 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:11:58 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:12:01 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 12:12:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:12:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:12:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:12:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:12:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:12:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:12:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:12:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:12:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:12:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:15:13 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:15:14 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:15:21 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 12:15:23 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:15:26 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:15:28 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 12:15:30 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:15:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:15:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:15:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:15:30 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:15:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:15:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:15:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:15:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:15:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:17:55 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:17:56 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:18:02 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 12:18:05 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:18:08 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:18:11 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 12:18:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:18:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:18:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:18:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:18:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:18:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:18:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:18:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:18:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:18:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:25:35 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:25:36 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:25:42 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 12:25:45 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:25:48 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:25:50 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 12:25:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:25:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:25:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:25:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:25:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:25:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:25:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:25:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:25:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:25:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:28:47 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:28:48 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:28:54 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 12:28:57 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:29:00 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:29:02 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 12:29:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:29:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:29:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:29:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:29:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:29:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:29:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:29:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:29:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:29:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:29:52 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:29:53 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:29:59 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 12:30:02 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:30:04 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:30:07 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 12:30:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:30:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:30:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:30:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:30:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:30:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:30:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:30:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:30:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:30:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:45:02 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:45:03 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:45:09 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 12:45:12 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:45:15 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:45:18 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 12:45:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:45:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:45:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:45:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:48:39 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:48:40 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:48:48 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 12:48:52 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:48:55 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:48:58 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 12:49:03 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:49:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:49:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:49:03 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:49:03 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:49:04 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:49:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:49:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:49:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:49:04 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:51:17 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:51:18 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:51:24 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 12:51:27 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:51:30 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:51:32 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 12:51:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:51:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:51:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:51:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:51:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:51:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:51:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:51:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:51:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:51:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:52:41 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:52:42 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:52:48 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 12:52:51 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:52:53 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:52:56 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 12:53:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:53:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:53:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:53:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:53:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:53:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:53:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:53:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:53:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:53:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:57:08 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:57:09 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:57:17 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 12:57:19 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:57:22 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:57:25 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 12:57:34 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:57:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:57:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:57:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:57:34 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:57:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:57:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:57:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:57:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:57:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:58:47 INFO  LogReporter:19 - url is loaded
+2019-10-07 12:58:48 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 12:58:54 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 12:58:57 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 12:59:00 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 12:59:03 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 12:59:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:59:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:59:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:59:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:59:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:59:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:59:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:59:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:59:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:59:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:09:55 INFO  LogReporter:19 - url is loaded
+2019-10-07 14:09:56 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 14:10:03 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 14:10:05 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 14:10:07 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 14:10:09 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 14:10:10 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 14:10:16 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 14:10:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:10:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:10:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:10:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:10:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:10:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:10:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:10:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:10:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:10:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:53:56 INFO  LogReporter:19 - url is loaded
+2019-10-07 14:53:57 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 14:54:04 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 14:54:06 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 14:54:08 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 14:54:11 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 14:54:12 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 14:54:18 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 14:54:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:54:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:54:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:54:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:54:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:54:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:54:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:54:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:54:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:54:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:59:25 INFO  LogReporter:19 - url is loaded
+2019-10-07 14:59:26 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 14:59:32 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 14:59:35 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 14:59:37 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 14:59:39 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 14:59:40 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 14:59:46 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 14:59:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:59:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:59:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:59:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:59:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:59:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:59:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:59:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:01:52 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:01:53 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:01:59 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:02:01 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:02:03 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:02:05 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 15:02:07 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:02:13 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:02:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:02:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:02:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:02:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:02:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:02:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:02:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:02:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:02:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:02:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:04:02 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:04:03 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:04:09 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:04:11 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:04:13 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:04:15 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 15:04:17 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:04:23 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:04:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:04:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:04:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:04:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:04:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:04:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:04:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:04:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:04:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:04:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:06:07 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:06:08 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:06:14 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:06:16 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:06:18 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:06:20 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 15:06:21 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:06:27 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:06:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:06:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:06:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:06:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:06:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:06:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:06:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:06:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:06:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:06:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:07:39 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:07:40 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:07:46 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:07:48 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:07:50 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:07:52 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 15:07:53 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:07:59 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:08:02 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:08:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:08:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:08:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:08:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:08:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:08:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:08:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:08:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:08:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:08:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:09:50 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:09:51 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:09:58 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:10:00 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:10:02 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:10:04 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 15:10:06 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:10:11 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:10:14 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:10:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:10:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:10:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:10:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:10:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:10:25 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:10:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:10:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:10:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:10:25 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:12:44 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:12:45 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:12:51 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:12:53 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:12:55 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:12:57 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 15:12:59 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:13:05 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:13:08 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:13:14 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 15:13:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:13:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:13:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:13:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:13:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:13:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:13:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:13:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:13:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:13:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:17:49 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:17:50 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:17:56 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:17:58 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:18:00 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:18:02 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 15:18:04 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:18:10 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:18:12 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:18:19 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 15:18:19 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:18:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:18:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:18:19 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:18:19 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:18:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:18:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:18:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:18:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:18:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:19:10 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:19:12 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:19:18 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:19:20 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:19:22 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:19:24 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 15:19:25 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:19:32 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:19:34 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:19:41 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:19:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:19:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:19:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:19:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:19:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:19:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:19:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:19:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:19:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:19:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:21:41 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:21:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:21:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:21:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:21:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:21:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:21:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:21:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:21:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:21:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:21:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:22:22 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:22:23 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:22:29 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:22:31 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:22:33 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:22:35 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 15:22:36 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:22:42 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:22:45 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:22:51 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:22:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:22:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:22:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:22:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:22:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:22:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:22:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:22:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:22:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:22:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:23:57 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:23:58 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:24:03 INFO  LogReporter:19 - Document title is validated :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:24:05 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:24:07 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:24:09 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated succesfully
+2019-10-07 15:24:11 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:24:17 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:24:20 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:24:26 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:24:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:24:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:24:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:24:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:24:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:24:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:24:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:24:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:24:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:24:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:26:23 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:26:24 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:26:30 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:26:32 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:26:34 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:26:36 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 15:26:37 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:26:43 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:26:46 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:26:52 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:26:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:26:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:26:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:26:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:26:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:26:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:26:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:26:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:26:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:26:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:27:52 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:27:53 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:28:00 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:28:02 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:28:04 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:28:06 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 15:28:07 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:28:13 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:28:16 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:28:22 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:28:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:28:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:28:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:28:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:28:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:28:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:28:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:28:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:28:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:28:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:31:43 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:31:44 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:31:50 INFO  LogReporter:19 - Document title is validated :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:31:52 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:31:54 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:31:56 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated succesfully
+2019-10-07 15:32:35 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:32:36 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:32:42 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:32:44 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:32:46 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:32:48 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 15:32:49 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:32:56 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:33:00 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:33:06 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:33:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:33:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:33:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:33:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:33:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:33:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:33:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:33:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:33:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:33:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:34:05 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:34:06 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:34:11 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 15:34:14 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:34:16 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:34:18 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 15:34:19 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:34:25 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:34:28 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:34:34 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:34:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:34:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:34:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:34:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:34:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:34:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:34:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:34:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:34:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:34:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:42:00 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:42:01 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 15:42:07 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 15:42:09 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 15:42:11 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 15:42:13 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 15:42:14 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:42:20 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:42:23 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 15:42:30 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 15:42:30 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:42:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:42:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:42:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:42:30 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:42:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:42:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:42:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:42:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:42:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:42:54 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:43:04 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 15:43:04 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 15:43:04 INFO  LogReporter:19 - Actual Value :$54.99 not match wiht the Expected value :54.99
+2019-10-07 15:43:13 INFO  LogReporter:19 - Actual Value :There are no available products. and Expected :There are no available products. is validated succesfully
+2019-10-07 15:43:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:43:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:43:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:43:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:43:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:43:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:43:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:43:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:43:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:43:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:44:38 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:44:49 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 15:44:49 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 15:44:49 INFO  LogReporter:19 - Actual Value :$54.99 not match wiht the Expected value :54.99
+2019-10-07 15:44:57 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 15:44:57 INFO  LogReporter:19 - Actual Value :(4 Reviews) not match wiht the Expected value :(3 Reviews)
+2019-10-07 15:44:57 INFO  LogReporter:19 - Actual Value :$79.99 not match wiht the Expected value :79.99
+2019-10-07 15:44:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:44:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:44:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:44:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:44:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:44:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:44:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:44:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:44:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:44:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:46:21 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:46:32 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 15:46:32 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 15:46:32 INFO  LogReporter:19 - Actual Value :$54.99 not match wiht the Expected value :4.99
+2019-10-07 15:46:40 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 15:46:40 INFO  LogReporter:19 - Actual Value :(4 Reviews) not match wiht the Expected value :(3 Reviews)
+2019-10-07 15:46:40 INFO  LogReporter:19 - Actual Value :$79.99 not match wiht the Expected value :9.99
+2019-10-07 15:46:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:46:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:46:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:46:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:46:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:46:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:46:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:46:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:46:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:46:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:49:03 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:49:15 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 15:49:15 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 15:49:15 INFO  LogReporter:19 - Actual Value :$54.99 not match wiht the Expected value :54.99
+2019-10-07 15:49:24 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 15:49:24 INFO  LogReporter:19 - Actual Value :(4 Reviews) not match wiht the Expected value :(3 Reviews)
+2019-10-07 15:49:24 INFO  LogReporter:19 - Actual Value :$79.99 not match wiht the Expected value :79.99
+2019-10-07 15:49:25 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:49:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:49:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:49:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:49:25 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:49:25 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:49:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:49:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:49:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:49:25 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:52:25 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:52:37 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 15:52:37 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 15:52:37 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 15:52:46 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 15:52:46 INFO  LogReporter:19 - Actual Value :(4 Reviews) not match wiht the Expected value :(3 Reviews)
+2019-10-07 15:52:46 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 15:52:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:52:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:52:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:52:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:52:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:52:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:52:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:52:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:52:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:52:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:54:02 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:54:14 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 15:54:14 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 15:54:14 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 15:54:22 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 15:54:22 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 15:54:22 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 15:54:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:54:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:54:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:54:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:54:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:54:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:54:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:54:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:54:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:54:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:55:20 INFO  LogReporter:19 - url is loaded
+2019-10-07 15:55:31 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 15:55:31 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 15:55:31 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 15:55:40 INFO  LogReporter:19 - Actual Value :There are no available products. and Expected :There are no available products. is validated succesfully
+2019-10-07 15:55:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:55:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:55:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:55:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:55:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 15:55:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 15:55:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 15:55:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 15:55:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 15:55:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:00:49 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:00:50 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:00:59 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 16:00:59 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 16:00:59 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 16:01:00 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:01:08 INFO  LogReporter:19 - Actual Value :The Dark Knight not match wiht the Expected value :Windows 8
+2019-10-07 16:01:08 INFO  LogReporter:19 - Actual Value :(3 Reviews) not match wiht the Expected value :(4 Reviews)
+2019-10-07 16:01:08 INFO  LogReporter:19 - Actual Value :$54.99 not match wiht the Expected value :$79.99
+2019-10-07 16:01:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:01:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:01:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:01:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:01:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:01:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:01:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:01:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:01:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:01:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:03:10 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:03:12 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:03:22 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 16:03:22 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 16:03:22 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 16:03:22 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:03:30 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 16:03:30 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 16:03:30 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 16:03:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:03:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:03:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:03:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:03:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:03:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:03:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:03:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:03:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:03:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:06:56 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:06:57 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:07:08 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 16:07:08 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 16:07:08 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 16:07:08 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:07:17 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 16:07:17 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 16:07:17 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 16:07:18 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:07:18 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:07:18 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:07:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:07:18 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:07:36 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:07:36 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:07:42 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:07:45 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:07:47 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:07:49 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:07:51 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:07:57 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:08:01 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:08:07 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:08:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:08:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:08:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:08:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:08:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:08:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:08:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:08:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:08:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:08:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:17:18 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:17:19 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:17:25 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:17:27 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:17:29 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:17:31 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:17:33 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:17:39 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:17:42 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:17:49 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:17:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:17:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:17:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:17:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:17:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:17:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:17:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:17:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:17:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:17:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:19:37 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:19:38 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:19:44 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:19:46 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:19:49 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:19:51 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:19:52 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:19:58 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:20:01 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:20:08 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:20:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:20:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:20:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:20:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:20:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:20:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:20:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:20:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:20:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:20:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:23:17 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:23:18 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:23:20 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 16:23:30 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:23:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:23:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:23:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:23:30 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:23:30 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:23:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:23:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:23:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:23:30 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:25:05 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:25:06 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:25:11 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 16:25:19 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:25:21 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:25:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:25:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:25:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:25:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:25:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:25:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:25:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:25:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:25:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:25:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:27:09 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:27:10 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:27:17 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:27:19 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:27:21 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:27:23 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:27:24 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:27:30 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:27:33 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:27:39 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:27:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:27:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:27:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:27:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:27:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:27:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:27:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:27:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:27:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:27:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:32:04 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:32:05 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:32:11 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:32:13 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:32:15 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:32:17 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:32:18 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:32:24 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:32:27 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:32:33 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:32:34 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:32:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:32:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:32:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:32:34 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:32:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:32:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:32:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:32:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:32:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:34:39 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:34:40 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:34:46 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:34:48 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:34:50 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:34:52 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:34:54 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:35:00 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:35:03 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:35:09 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:35:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:35:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:35:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:35:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:35:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:35:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:35:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:35:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:35:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:35:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:38:58 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:38:59 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:39:05 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:39:07 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:39:09 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:39:12 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:39:13 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:39:19 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:39:22 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:39:28 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:39:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:39:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:39:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:39:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:39:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:39:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:39:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:39:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:39:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:39:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:43:14 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:43:15 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:43:21 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:43:24 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:43:27 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:43:30 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:43:32 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:43:39 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:43:47 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 16:43:54 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:43:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:43:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:43:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:43:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:43:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:43:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:43:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:43:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:43:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:43:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:44:53 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:44:54 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:45:01 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 16:45:04 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:45:07 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:45:09 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match wiht the Expected value :Customer Reviews (4)
+2019-10-07 16:45:10 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:45:16 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:45:23 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:45:30 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:45:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:45:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:45:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:45:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:45:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:45:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:45:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:45:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:45:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:45:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:46:16 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:46:17 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:46:24 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 16:46:28 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:46:31 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:46:34 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 16:46:35 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:46:41 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:46:49 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:46:56 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 16:46:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:46:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:46:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:46:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:46:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:46:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:46:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:48:19 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:48:21 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:48:25 INFO  LogReporter:19 - Actual Value :In not match wiht the Expected value :The Dark Knight
+2019-10-07 16:48:25 INFO  LogReporter:19 - Actual Value :Stock not match wiht the Expected value :(3 Reviews)
+2019-10-07 16:48:25 INFO  LogReporter:19 - Actual Value :ADD TO CART not match wiht the Expected value :$54.99
+2019-10-07 16:48:25 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:48:28 INFO  LogReporter:19 - Actual Value :In not match wiht the Expected value :Windows 8
+2019-10-07 16:48:28 INFO  LogReporter:19 - Actual Value :Stock not match wiht the Expected value :(4 Reviews)
+2019-10-07 16:48:28 INFO  LogReporter:19 - Actual Value :ADD TO CART not match wiht the Expected value :$79.99
+2019-10-07 16:48:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:48:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:48:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:48:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:48:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:48:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:48:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:48:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:48:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:48:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:48:45 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:48:46 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:48:51 INFO  LogReporter:19 - Document title is not match with Expected :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 16:48:51 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 16:48:52 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 16:48:52 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 16:49:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:49:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:49:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:49:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:49:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:49:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:49:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:49:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:49:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:49:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:49:37 INFO  LogReporter:19 - url is loaded
+2019-10-07 16:49:38 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:49:41 INFO  LogReporter:19 - Actual Value :In not match wiht the Expected value :The Dark Knight
+2019-10-07 16:49:41 INFO  LogReporter:19 - Actual Value :Stock not match wiht the Expected value :(3 Reviews)
+2019-10-07 16:49:41 INFO  LogReporter:19 - Actual Value :ADD TO CART not match wiht the Expected value :$54.99
+2019-10-07 16:49:41 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 16:49:44 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 16:49:44 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 16:49:44 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 16:49:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:49:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:49:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:49:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:01:09 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:01:14 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:01:18 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 17:01:18 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 17:01:18 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 17:01:18 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:01:21 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 17:01:21 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 17:01:21 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 17:01:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:01:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:01:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:01:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:01:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:01:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:01:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:01:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:01:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:01:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:01:46 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:01:51 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:01:55 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 17:01:55 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 17:01:55 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 17:01:55 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:01:58 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 17:01:58 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 17:01:58 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 17:01:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:01:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:01:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:01:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:01:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:01:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:01:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:01:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:01:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:01:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:02:11 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:02:11 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:02:15 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 17:02:16 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 17:02:16 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 17:02:17 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 17:02:17 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:02:23 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:02:29 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:02:34 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:02:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:02:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:02:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:02:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:02:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:02:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:02:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:02:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:02:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:02:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:03:54 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:03:55 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:04:07 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 17:04:07 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 17:04:07 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 17:04:07 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:04:17 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 17:04:17 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 17:04:17 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 17:04:18 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:04:18 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:04:18 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:04:18 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:04:18 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:04:36 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:04:36 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:04:41 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 17:04:44 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 17:04:47 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 17:04:49 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 17:04:51 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:04:58 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:05:05 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:05:12 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:05:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:05:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:05:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:05:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:05:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:05:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:05:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:05:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:05:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:05:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:43:20 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:43:22 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:43:35 INFO  LogReporter:19 - Actual Value :The Matrix not match wiht the Expected value :The Dark Knight
+2019-10-07 17:43:35 INFO  LogReporter:19 - Actual Value :(0 Reviews) not match wiht the Expected value :(3 Reviews)
+2019-10-07 17:43:35 INFO  LogReporter:19 - Actual Value :$39.99$30.00 not match wiht the Expected value :$54.99
+2019-10-07 17:43:36 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:43:45 INFO  LogReporter:19 - Actual Value :The Matrix not match wiht the Expected value :Windows 8
+2019-10-07 17:43:45 INFO  LogReporter:19 - Actual Value :(0 Reviews) not match wiht the Expected value :(4 Reviews)
+2019-10-07 17:43:45 INFO  LogReporter:19 - Actual Value :$39.99$30.00 not match wiht the Expected value :$79.99
+2019-10-07 17:43:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:43:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:43:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:43:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:43:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:43:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:43:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:43:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:43:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:43:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:44:13 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:44:13 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:44:15 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 17:44:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:44:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:44:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:44:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:44:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:44:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:44:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:44:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:44:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:44:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:45:01 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:45:02 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:45:13 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 17:45:13 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 17:45:13 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 17:45:13 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:45:22 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 17:45:22 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 17:45:22 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 17:45:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:45:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:45:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:45:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:45:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:45:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:45:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:45:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:45:50 INFO  LogReporter:19 - url is loaded
+2019-10-07 17:45:51 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 17:46:08 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 17:46:10 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 17:46:13 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 17:46:16 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) and Expected :Customer Reviews (3) is validated succesfully
+2019-10-07 17:46:17 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:46:24 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:46:31 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:46:37 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 17:46:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:46:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:46:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:46:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:46:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 17:46:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 17:46:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 17:46:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 17:46:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 17:46:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 18:47:06 INFO  LogReporter:19 - url is loaded
+2019-10-07 18:47:08 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 18:47:23 INFO  LogReporter:19 - Actual Value :The Dark Knight and Expected :The Dark Knight is validated succesfully
+2019-10-07 18:47:23 INFO  LogReporter:19 - Actual Value :(3 Reviews) and Expected :(3 Reviews) is validated succesfully
+2019-10-07 18:47:23 INFO  LogReporter:19 - Actual Value :$54.99 and Expected :$54.99 is validated succesfully
+2019-10-07 18:47:23 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 18:47:34 INFO  LogReporter:19 - Actual Value :Windows 8 and Expected :Windows 8 is validated succesfully
+2019-10-07 18:47:34 INFO  LogReporter:19 - Actual Value :(4 Reviews) and Expected :(4 Reviews) is validated succesfully
+2019-10-07 18:47:34 INFO  LogReporter:19 - Actual Value :$79.99 and Expected :$79.99 is validated succesfully
+2019-10-07 18:47:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 18:47:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 18:47:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 18:47:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 18:47:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 18:47:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 18:47:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 18:47:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 18:47:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 18:47:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:27:31 INFO  LogReporter:19 - url is loaded
+2019-10-07 19:27:32 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 19:27:38 INFO  LogReporter:19 - Document title is not match with Expected :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 19:27:41 INFO  LogReporter:19 - Actual Value :Product Description not match wiht the Expected value :Customer Reviews (3)
+2019-10-07 19:27:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:27:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:27:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:27:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:27:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:27:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:27:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:27:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:27:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:27:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:30:12 INFO  LogReporter:19 - url is loaded
+2019-10-07 19:30:13 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 19:30:15 INFO  LogReporter:19 - Document title is not match with Expected :KonaKart
+2019-10-07 19:30:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:30:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:30:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:30:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:30:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:30:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:30:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:30:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:30:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:30:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:31:08 INFO  LogReporter:19 - url is loaded
+2019-10-07 19:31:09 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 19:31:16 INFO  LogReporter:19 - Document title is validated :Kitchen - DeLonghi - De'Longhi BCO 410 - DLBCO410
+2019-10-07 19:31:19 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 19:31:22 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 19:31:25 INFO  LogReporter:19 - Actual Value :Customer Reviews (4) and Expected :Customer Reviews (4) is validated succesfully
+2019-10-07 19:31:27 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:31:36 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:31:43 INFO  LogReporter:19 - Actual Value :false not match wiht the Expected value :true
+2019-10-07 19:31:51 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:31:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:31:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:31:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:31:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:31:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:31:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:31:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:31:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:31:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:31:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:36:19 INFO  LogReporter:19 - url is loaded
+2019-10-07 19:36:20 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 19:36:26 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 19:36:29 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 19:36:33 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 19:36:36 INFO  LogReporter:19 - Actual Value :Customer Reviews (3) not match with the Expected value :Customer Reviews (4)
+2019-10-07 19:36:37 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:36:44 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:36:51 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:36:58 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:36:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:36:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:36:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:36:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:36:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:37:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:37:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:37:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:37:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:37:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:41:25 INFO  LogReporter:19 - url is loaded
+2019-10-07 19:41:26 INFO  LogReporter:19 - Document title is validated :KonaKart
+2019-10-07 19:41:32 INFO  LogReporter:19 - Document title is validated :Tablets - Amazon - Kindle Fire HD - DLBCO410
+2019-10-07 19:41:35 INFO  LogReporter:19 - Actual Value :Product Description and Expected :Product Description is validated succesfully
+2019-10-07 19:41:38 INFO  LogReporter:19 - Actual Value :Specifications and Expected :Specifications is validated succesfully
+2019-10-07 19:41:41 INFO  LogReporter:19 - Actual Value :Customer Reviews  and Expected :Customer Reviews  is validated succesfully
+2019-10-07 19:41:44 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:41:51 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:41:58 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:42:06 INFO  LogReporter:19 - Actual Value :true and Expected :true is validated succesfully
+2019-10-07 19:42:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:42:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:42:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:42:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:42:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 19:42:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 19:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 19:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 19:42:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 19:42:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
